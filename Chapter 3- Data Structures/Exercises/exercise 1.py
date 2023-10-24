@@ -1,12 +1,7 @@
-#Exercise 1: Variables
-msg = "Bath Spa University welcomes students from the UAE."
-print (msg)
+#Exercise 1: Names
+names = ['Francis', 'Gabriel', 'Sabado', 'Cerezo']
 
-msg = """ "Being creative isn’t just about art, music, drama… although
-       that’s part of it. It’s ingrained in the way we teach. Our ethos.
-       All our students are encouraged to be creative problem-
-       solvers  they are enterprising and innovative." """
-print (msg)
-
-name = "-Professor Sue Rigby, Vice-Chancellor"
-print (name)
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
